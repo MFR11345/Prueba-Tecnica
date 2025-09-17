@@ -1,0 +1,6 @@
+Modelado y Base de Datos (SQL Server)
+Ejecutar los scripts en el siguiente orden:
+
+Creación de base de datos y tablas.sql
+inserción de datos.sql
+consultas.sql
