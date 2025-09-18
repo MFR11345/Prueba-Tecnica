@@ -1,0 +1,22 @@
+﻿@using frontend.Models
+@model List<ClienteViewModel>
+
+<h2 class="mb-3">Clientes</h2>
+
+<table class="table table-bordered">
+    <thead class="table-dark">
+        <tr>
+            <th>Nombre</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var c in Model)
+        {
+            <tr>
+                <td>@c.Nombre</td>
+                <td>@c.Email</td>
+            </tr>
+        }
+    </tbody>
+</table>

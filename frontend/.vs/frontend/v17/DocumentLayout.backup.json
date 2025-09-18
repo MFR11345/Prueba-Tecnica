@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|c:\\users\\mafer\\proyectos\\proyectos varios\\neonet\\frontend\\frontend\\views\\ventas\\nueva.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|solutionrelative:frontend\\views\\ventas\\nueva.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|c:\\users\\mafer\\proyectos\\proyectos varios\\neonet\\frontend\\frontend\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|solutionrelative:frontend\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|c:\\users\\mafer\\proyectos\\proyectos varios\\neonet\\frontend\\frontend\\views\\ventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|solutionrelative:frontend\\views\\ventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|c:\\users\\mafer\\proyectos\\proyectos varios\\neonet\\frontend\\frontend\\models\\ventaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|solutionrelative:frontend\\models\\ventaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|c:\\users\\mafer\\proyectos\\proyectos varios\\neonet\\frontend\\frontend\\models\\clienteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|solutionrelative:frontend\\models\\clienteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|c:\\users\\mafer\\proyectos\\proyectos varios\\neonet\\frontend\\frontend\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|solutionrelative:frontend\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|c:\\users\\mafer\\proyectos\\proyectos varios\\neonet\\frontend\\frontend\\models\\detalleventaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|solutionrelative:frontend\\models\\detalleventaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|c:\\users\\mafer\\proyectos\\proyectos varios\\neonet\\frontend\\frontend\\models\\productoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|solutionrelative:frontend\\models\\productoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|c:\\users\\mafer\\proyectos\\proyectos varios\\neonet\\frontend\\frontend\\views\\ventas\\historial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|solutionrelative:frontend\\views\\ventas\\historial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|c:\\users\\mafer\\proyectos\\proyectos varios\\neonet\\frontend\\frontend\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|solutionrelative:frontend\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|c:\\users\\mafer\\proyectos\\proyectos varios\\neonet\\frontend\\frontend\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|solutionrelative:frontend\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|c:\\users\\mafer\\proyectos\\proyectos varios\\neonet\\frontend\\frontend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|solutionrelative:frontend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|c:\\users\\mafer\\proyectos\\proyectos varios\\neonet\\frontend\\frontend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|solutionrelative:frontend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|c:\\users\\mafer\\proyectos\\proyectos varios\\neonet\\frontend\\frontend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|solutionrelative:frontend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|c:\\users\\mafer\\proyectos\\proyectos varios\\neonet\\frontend\\frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|solutionrelative:frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|c:\\users\\mafer\\proyectos\\proyectos varios\\neonet\\frontend\\frontend\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|solutionrelative:frontend\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|c:\\users\\mafer\\proyectos\\proyectos varios\\neonet\\frontend\\frontend\\views\\ventas\\nueva.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|solutionrelative:frontend\\views\\ventas\\nueva.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|c:\\users\\mafer\\proyectos\\proyectos varios\\neonet\\frontend\\frontend\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|solutionrelative:frontend\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|c:\\users\\mafer\\proyectos\\proyectos varios\\neonet\\frontend\\frontend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|solutionrelative:frontend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|c:\\users\\mafer\\proyectos\\proyectos varios\\neonet\\frontend\\frontend\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|solutionrelative:frontend\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|c:\\users\\mafer\\proyectos\\proyectos varios\\neonet\\frontend\\frontend\\views\\auth\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|solutionrelative:frontend\\views\\auth\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|c:\\users\\mafer\\proyectos\\proyectos varios\\neonet\\frontend\\frontend\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|solutionrelative:frontend\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|c:\\users\\mafer\\proyectos\\proyectos varios\\neonet\\frontend\\frontend\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|solutionrelative:frontend\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|c:\\users\\mafer\\proyectos\\proyectos varios\\neonet\\frontend\\frontend\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|solutionrelative:frontend\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|c:\\users\\mafer\\proyectos\\proyectos varios\\neonet\\frontend\\frontend\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|solutionrelative:frontend\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|c:\\users\\mafer\\proyectos\\proyectos varios\\neonet\\frontend\\frontend\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|solutionrelative:frontend\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|c:\\users\\mafer\\proyectos\\proyectos varios\\neonet\\frontend\\frontend\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF58A2A-DA0C-40F5-8AA1-DD34C563244A}|frontend\\frontend.csproj|solutionrelative:frontend\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Nueva.cshtml",
+              "DocumentMoniker": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Views\\Ventas\\Nueva.cshtml",
+              "RelativeDocumentMoniker": "frontend\\Views\\Ventas\\Nueva.cshtml",
+              "ToolTip": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Views\\Ventas\\Nueva.cshtml",
+              "RelativeToolTip": "frontend\\Views\\Ventas\\Nueva.cshtml",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T15:49:21.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VentaViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Models\\VentaViewModel.cs",
+              "RelativeDocumentMoniker": "frontend\\Models\\VentaViewModel.cs",
+              "ToolTip": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Models\\VentaViewModel.cs",
+              "RelativeToolTip": "frontend\\Models\\VentaViewModel.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:23:50.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Models\\ClienteViewModel.cs",
+              "RelativeDocumentMoniker": "frontend\\Models\\ClienteViewModel.cs",
+              "ToolTip": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Models\\ClienteViewModel.cs",
+              "RelativeToolTip": "frontend\\Models\\ClienteViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:39:11.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Models\\ProductoViewModel.cs",
+              "RelativeDocumentMoniker": "frontend\\Models\\ProductoViewModel.cs",
+              "ToolTip": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Models\\ProductoViewModel.cs",
+              "RelativeToolTip": "frontend\\Models\\ProductoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:36:16.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Views\\Ventas\\Index.cshtml",
+              "RelativeDocumentMoniker": "frontend\\Views\\Ventas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Views\\Ventas\\Index.cshtml",
+              "RelativeToolTip": "frontend\\Views\\Ventas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T15:48:25.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "frontend\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "frontend\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T19:30:53.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "frontend\\Controllers\\VentasController.cs",
+              "ToolTip": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "frontend\\Controllers\\VentasController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAcwIEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:22:12.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetalleVentaViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Models\\DetalleVentaViewModel.cs",
+              "RelativeDocumentMoniker": "frontend\\Models\\DetalleVentaViewModel.cs",
+              "ToolTip": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Models\\DetalleVentaViewModel.cs",
+              "RelativeToolTip": "frontend\\Models\\DetalleVentaViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:27:05.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "frontend\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "frontend\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA8wCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:59:10.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Historial.cshtml",
+              "DocumentMoniker": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Views\\Ventas\\Historial.cshtml",
+              "RelativeDocumentMoniker": "frontend\\Views\\Ventas\\Historial.cshtml",
+              "ToolTip": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Views\\Ventas\\Historial.cshtml",
+              "RelativeToolTip": "frontend\\Views\\Ventas\\Historial.cshtml",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAMwFAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T15:49:57.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "frontend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "frontend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:41:30.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "frontend\\Views\\Clientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "frontend\\Views\\Clientes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T20:03:08.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "frontend\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "frontend\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:40:46.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\appsettings.json",
+              "RelativeDocumentMoniker": "frontend\\appsettings.json",
+              "ToolTip": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\appsettings.json",
+              "RelativeToolTip": "frontend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-17T15:56:52.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Program.cs",
+              "RelativeDocumentMoniker": "frontend\\Program.cs",
+              "ToolTip": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Program.cs",
+              "RelativeToolTip": "frontend\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwB0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:36:04.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "frontend\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "frontend\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:41:52.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Nueva.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Views\\Ventas\\Nueva.cshtml.cs",
+              "RelativeDocumentMoniker": "frontend\\Views\\Ventas\\Nueva.cshtml.cs",
+              "ToolTip": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Views\\Ventas\\Nueva.cshtml.cs",
+              "RelativeToolTip": "frontend\\Views\\Ventas\\Nueva.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:29:08.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Views\\Productos\\Index.cshtml",
+              "RelativeDocumentMoniker": "frontend\\Views\\Productos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Views\\Productos\\Index.cshtml",
+              "RelativeToolTip": "frontend\\Views\\Productos\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwCAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T15:07:15.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "frontend\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "frontend\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAuwHcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T15:50:42.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "frontend\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "frontend\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAALMAAAAAAAAAAAAYwMAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T16:43:47.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Views\\Auth\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "frontend\\Views\\Auth\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Views\\Auth\\Login.cshtml.cs",
+              "RelativeToolTip": "frontend\\Views\\Auth\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:33:38.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "frontend\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "frontend\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:39:29.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "frontend\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "frontend\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T16:36:23.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "frontend\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Pages\\Error.cshtml",
+              "RelativeToolTip": "frontend\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T15:38:42.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "frontend\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Pages\\Index.cshtml",
+              "RelativeToolTip": "frontend\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T15:39:43.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "frontend\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "frontend\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T15:40:07.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "frontend\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\mafer\\Proyectos\\Proyectos varios\\Neonet\\frontend\\frontend\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "frontend\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T15:38:13.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

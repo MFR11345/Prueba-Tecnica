@@ -9,7 +9,7 @@ namespace PruebaTecnica.Data
 
         public DbSet<Product> productos { get; set; } = null!;
         public DbSet<cliente> Clientes { get; set; } = null!;
-        public DbSet<Sale> sales { get; set; } = null!;
+        public DbSet<Sale> ventas { get; set; } = null!;
         public DbSet<saleDetail> detalleVenta { get; set; } = null!;
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

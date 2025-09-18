@@ -42,7 +42,7 @@ namespace PruebaTecnica
             try
             {
                 var sale = new Sale { fecha = dto.fecha, clienteId = client.clienteId };
-                _db.sales.Add(sale);
+                _db.ventas.Add(sale);
                 await _db.SaveChangesAsync(); // para tener VentaID
 
                 // Validar stock de cada producto
